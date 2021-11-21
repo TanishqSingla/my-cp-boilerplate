@@ -15,3 +15,6 @@ typedef vector<int> vi;
 
 // shorthand vector
 #define pb push_back
+
+// loops
+#define fr(a, b) for(int a = 0; a < b; a++)

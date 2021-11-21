@@ -13,3 +13,5 @@ If you want to manage headerfiles yourself, just add
 #pragma once
 ```
 at the top of `boilerplate.h`
+
+***NOTE:*** the file contains `using namespace std;`, change as per your preference. Check for this note in case of namespace error. 
